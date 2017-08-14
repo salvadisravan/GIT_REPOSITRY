@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+
+.idea
+.project
+.classpath
+.groovy
+.gradle
+.settings
+build
+bin
+target
+gradle-app.setting
