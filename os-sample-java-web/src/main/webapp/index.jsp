@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift!</h2>
+<h2>Welcome to Devops tools!</h2>
 </body>
 </html>
