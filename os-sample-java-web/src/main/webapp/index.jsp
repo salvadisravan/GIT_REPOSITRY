@@ -1,10 +1,31 @@
+<!DOCTYPE html>
 <html>
-<body>
-<h2>Welcome to CICD Pipeline</h2>
-</body>
-<h1 style="background-color:powderblue;"><i><b>
-Welcome to DevOps
-</b></i></h1>
+<head>
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
 
+.bg {
+    /* The image used */
+    background-image: url("https://intland.com/wp-content/uploads/2015/06/How-does-DevOps-help-your-business-to-grow.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+</head>
+<body>
+
+<div class="bg"></div>
+
+
+</body>
 </html>
 
