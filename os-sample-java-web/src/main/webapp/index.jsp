@@ -1,5 +1,8 @@
 <html>
-<body>
-<h2>Hello World with OpenShift!</h2>
+
+<body style="background-color:powderblue;">
+<center>
+<h2>Welcome to CICD Pipeline</h2>
+</center>
 </body>
 </html>
