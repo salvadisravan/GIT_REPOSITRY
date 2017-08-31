@@ -1,31 +1,5 @@
-<!DOCTYPE html>
 <html>
-<head>
-<style>
-body, html {
-    height: 100%;
-    margin: 0;
-}
-
-.bg {
-    /* The image used */
-    background-image: url("https://intland.com/wp-content/uploads/2015/06/How-does-DevOps-help-your-business-to-grow.png");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-</style>
-</head>
 <body>
-
-<div class="bg"></div>
-
-
+<h2>Hello World with OpenShift!</h2>
 </body>
 </html>
-
